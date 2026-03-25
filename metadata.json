@@ -1,0 +1,7 @@
+{
+  "name": "LinguistAI - Smart Translator & TTS",
+  "description": "A professional translation application powered by Gemini that converts text between languages and generates high-quality audio for download.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
